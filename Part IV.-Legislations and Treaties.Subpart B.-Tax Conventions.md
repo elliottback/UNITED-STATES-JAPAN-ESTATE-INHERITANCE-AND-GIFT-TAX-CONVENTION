@@ -34,83 +34,35 @@ A convention between the United States and Japan for the avoidance of double tax
     <li>If a decedent at the time of his death or a donor at the time of the gift was a national of or domiciled in the United States, or if a beneficiary of a decedent's estate at the time of such decedent's death or a beneficiary of a gift at the time of the gift was domiciled in Japan, the situs at the time of the transfer of any of the following property or property rights shall, for the purpose of the imposition of the tax and for the purpose of the credit authorized by Article V, be determined exclusively in accordance with the following rules:
         <ol type="a">
             <li>Immovable property or rights therein (not including any property for which specific provision is otherwise made in this Article) shall be deemed to be situated at the place where the land involved is located.</li>
-            <li></li>
-(b) Tangible movable property (including currency and any other form
-of money recognized as legal tender in the plane of issue and excepting such
-property for which specifi provision is otherwise made in this Article) shall
-be deemed to be situated at the place where such property is physically located,
-or, if in transitu, at the place of destination.
-(c) Debts (including bonds, promissory notes, bills of exchange, bank
-deposits and insurance, except bonds or other negotiable instruments in
-bearer form and such debts for which specific provision is otherwise made
-in this Article) shall be deemed to be situated at the place where the debtor
-resides.
-(d) Shares or stock in a corporation shall be deemed to be situated at the
-place under the laws of which such corporation was created or organized.
-(e) Ships and aircraft shall be deemed to be situated at the place where
-they are registered.
-(f) Goodwill as a trade, business or professional asset shall be deemed
-to be situated at the place where the trade, business or profession to which
-it pertains is carried on.
-(g) Patents, trade-marks, utility models and designs shall be deemed to
-be situated at the place where they are registered (or used in case they are
-not registered).
-(h) Copvrights, franchises, rights to artistic and scientific works and
-rights or licenses to use any copyrighted material, artistic and scientific
-worl-s, patents, trade-marks, utility models or designs shall be deemed to be
-situated at the place where they are exercisable.
-(i) Mining or quarrying rights or mining leases shall be deemed to be
-situated at the place of such ruining or quarrying.
-656
-(j) Fishing ri hts shall be deemed to be situated in the country in whose
-government's jurisdiction such rights are exercisable.
-(k) Any property for which provision is not hereinbefore made shall be
-deemed to be situated in accordance with the laws of the contracting State
-imposing the tax solely by reason of the situs of property within such State,
-but if neither of the contracting States imposes the tax solely by reason of
-the situs of property therein, then any such property shall be deemed to be
-situated in accordance with the laws of each contracting State.
-</ol>
-</li>
-(2) The application of the provisions of paragraph (1) of this Article shall
-be limited to the particular property, and any portion thereof, which without
-such provisions would be subjected to the taxes of both contracting States or
-would be so subjected except for a specific exemption.
+            <li>Tangible movable property (including currency and any other form of money recognized as legal tender in the place of issue and excepting such property for which specific provision is otherwise made in this Article) shall be deemed to be situated at the place where such property is physically located, or, if in transitu, at the place of destination.</li>
+            <li>Debts (including bonds, promissory notes, bills of exchange, bank deposits and insurance, except bonds or other negotiable instruments in bearer form and such debts for which specific provision is otherwise made in this Article) shall be deemed to be situated at the place where the debtor resides.</li>
+            <li>Shares or stock in a corporation shall be deemed to be situated at the place under the laws of which such corporation was created or organized.</li>
+            <li>Ships and aircraft shall be deemed to be situated at the place where they are registered.</li>
+            <li>Goodwill as a trade, business or professional asset shall be deemed to be situated at the place where the trade, business or profession to which it pertains is carried on.</li>
+            <li>Patents, trade-marks, utility models and designs shall be deemed to be situated at the place where they are registered (or used in case they are not registered).</li>
+            <li>Copyrights, franchises, rights to artistic and scientific works and rights or licenses to use any copyrighted material, artistic and scientific works, patents, trade-marks, utility models or designs shall be deemed to be situated at the place where they are exercisable.</li>
+            <li>Mining or quarrying rights or mining leases shall be deemed to be situated at the place of such ruining or quarrying.</li>
+            <li>Fishing rights shall be deemed to be situated in the country in whose government's jurisdiction such rights are exercisable.</li>
+            <li>Any property for which provision is not hereinbefore made shall be deemed to be situated in accordance with the laws of the contracting State imposing the tax solely by reason of the situs of property within such State, but if neither of the contracting States imposes the tax solely by reason of the situs of property therein, then any such property shall be deemed to be situated in accordance with the laws of each contracting State.</li>
+        </ol>
+    </li>
+    <li>The application of the provisions of paragraph (1) of this Article shall be limited to the particular property, and any portion thereof, which without such provisions would be subjected to the taxes of both contracting States or would be so subjected except for a specific exemption.</li>
 </ol>
 
-ARTrcr. E IV
-Where one of the contracting States imposes the tax solely by reason of the
-situs of property within such State, in the case of a decedent who at the time
-oi his death, or of a donor who at the time of the gift, was a national of or
-domiciled in the United States, or in the case of a beneficiary of a decedent's
-estate who at the time of such dec dent's death, or a beneficiary of a gift who
-at the time of the gift, was domici'ed in Japan, the contracting State so imposing
-the tax:
-(a) shall allow a specific exemption which would be applicable under its
-laws if the decedent, donor, or beneficiary, as the case may be, had been a
-national of or don, iciled in such State, in an amount not less than the
-proportion thereof which (A) the value of the property, situated according
-to Article III in such State and subjected to the taxes of both contracting
-States or which would be so subjected except for a specific exemption, bears
-to (B) the value of the total property which would be subjected to the tax
-of such State if such decedent, donor, or beneficiary had been a national of or
-domiciled in such State; and
-(b) shall (except for the purpose of subparagraph (a) of this paragraph
-and for the purpose of any other proportional allowance otherwise provided)
-take no account of property situated according to Article III outside such
-State iu determining the amourt of the tax.
-Anrrcnz V
-(1) Where either contracting State imposes the tax by reason of the nationality
-thereof or the domicile therein of a decedent or a donor or a beneficiary of a
-decedent's estate or of a gift, such State shall allow against its tax (computed
-without application of this Article) a credit for the tax imposed by the other
-contracting State with respect to property situated at the time of the transfer in
-such other State and included for the taxes of both States (but the amount of
-the credit shall not exceed that portion of the tax imposed by the crediting State
-vrhich is attributable to such propertv). The provisions of this paragraph shall
-not apply with respect to any property referred to in paragraph (2) of this
-Article.
-(2) IVhere each contracting State imposes the tax by reasons of the nationality
+##  ARTICLE IV
+
+Where one of the contracting States imposes the tax solely by reason of the situs of property within such State, in the case of a decedent who at the time of his death, or of a donor who at the time of the gift, was a national of or domiciled in the United States, or in the case of a beneficiary of a decedent's estate who at the time of such decedent's death, or a beneficiary of a gift who at the time of the gift, was domiciled in Japan, the contracting State so imposing the tax:
+
+<ol type="a">
+    <li>shall allow a specific exemption which would be applicable under its laws if the decedent, donor, or beneficiary, as the case may be, had been a national of or domiciled in such State, in an amount not less than the proportion thereof which (A) the value of the property, situated according to Article III in such State and subjected to the taxes of both contracting States or which would be so subjected except for a specific exemption, bears to (B) the value of the total property which would be subjected to the tax of such State if such decedent, donor, or beneficiary had been a national of or domiciled in such State; and</li>
+    <li>shall (except for the purpose of subparagraph (a) of this paragraph and for the purpose of any other proportional allowance otherwise provided) take no account of property situated according to Article III outside such State in determining the amount of the tax.</li>
+</ol>
+
+## ARTICLE V
+
+<ol>
+    <li>Where either contracting State imposes the tax by reason of the nationality thereof or the domicile therein of a decedent or a donor or a beneficiary of a decedent's estate or of a gift, such State shall allow against its tax (computed without application of this Article) a credit for the tax imposed by the other contracting State with respect to property situated at the time of the transfer in such other State and included for the taxes of both States (but the amount of the credit shall not exceed that portion of the tax imposed by the crediting State which is attributable to such property). The provisions of this paragraph shall not apply with respect to any property referred to in paragraph (2) of this Article.</li>
+    <li>Where each contracting State imposes the tax by reasons of the nationality
 thereof or the domicile therein of a decedent or a donor or a beneficiary, with
 respect to any property situated at the time of the transfer outside both contracting
 States (or deemed by each contracting State to be situated in its territory,
@@ -124,8 +76,8 @@ of the credits authorized by this paragraph shall be equal to the amount of
 the tax imposed with respect to such property by the contracting State imposing
 the smaller amount of the tax with respect to such property, and shall be
 divided between both contracting States in proportion to the amount of the tax
-imposed by each contracting State with respect to such property.
-(8) The credit authorized by this Article, if applicable, shall be in lieu of any
+imposed by each contracting State with respect to such property.</li>
+    <li>The credit authorized by this Article, if applicable, shall be in lieu of any
 credit for the same tax authorized by the laws of the crediting State, the credit
 applicable for the particular tax being either credit authorized by this Article
 or credit authorized by such laws, whichever is the greater. For the purposes of
@@ -136,91 +88,110 @@ than any credit under paragraph (1) or (2) of this Article), provided, however,
 in case another credit for the tax of any other foreign State is allowable with
 respect to the same property pursuant to any other convention between the crediting
 State under the present convention and such other foreign State, or pursuant
-to the laws of the creditin" State, the total of such credits shall not exceed the
+to the laws of the crediting State, the total of such credits shall not exceed the
 amount of tax of the crediting State attributable to such property computed before
-allowance of such credits.
-(4) Credit against the tax of one of tlic contracting States for the tax of the
-other contracting State shall be alloived under. this Article only where both
-such taxes have been simultaneously iuiposed at tlie time of a decedent's death
-or at the time of a gift.
-(5) No credit resulting from tlie applicatiou of this Article shall be allowed
-atter more than five years from the due date of the tax agaiust which credit
-would otherivise be allowed, unless claim therefor was filed within such fiveyear
+allowance of such credits.</li>
+    <li>Credit against the tax of one of the contracting States for the tax of the
+other contracting State shall be allowed under this Article only where both
+such taxes have been simultaneously imposed at the time of a decedent's death
+or at the time of a gift.</li>
+    <li> No credit resulting from the application of this Article shall be allowed
+after more than five years from the due date of the tax against which credit
+would otherwise be allowed, unless claim therefore was filed within such five year
 period. Any refund resulting from tbe application of this Article shall
 be made without payment of interest on the amount so refunded, unless otherwise
-specifically authorized by the crediting State.
-(6) Credit against the tax of one of the contracting States shall not be finally
-allowed for the tax of the other contractiug State until the latter tax (reduced
-by credit authorized under this Article, if any) has been paid.
-ARTIcLE VI
-(1) The competent authorities of both contracting States shall exchange such
+specifically authorized by the crediting State.</li>
+    <li>Credit against the tax of one of the contracting States shall not be finally
+allowed for the tax of the other contracting State until the latter tax (reduced
+by credit authorized under this Article, if any) has been paid.</li>
+</ol>
+
+## ARTICLE VI
+
+<ol>
+    <li>The competent authorities of both contracting States shall exchange such
 information available under the respective tax laws of both contracting States
-ss is necessarv for carrying out the provisions of the present convention or for
+as is necessary for carrying out the provisions of the present convention or for
 the prevention of fraud or for the administration of statutory provisions against
-tax avoidance in relation to the tax. Any iuforruation so exchanged shall be
+tax avoidance in relation to the tax. Any information so exchanged shall be
 treated as secret and shall not be disclosed to any person other than those,
 including a court, concerned with the assessment and collection of the tax or the
-determination of appeals in relation thereto. No information shall be exchan ed
+determination of appeals in relation thereto. No information shall be exchanged
 which would disclose any trade, business, industrial or professional secret or any
-trade process.
-(2) Each of the contracting States may collect the tax imposed by the other
-contractiug State (as though such tax were the tax of the former State) as will
+trade process.</li>
+    <li>Each of the contracting States may collect the tax imposed by the other
+contracting State (as though such tax were the tax of the former State) as will
 ensure that the credit or any other benefit granted under the present convention
-by such other State shall not be enjoyed by persons not entitled to such ben. fits.
-ARTIcLL' VII
+by such other State shall not be enjoyed by persons not entitled to such benefits.</li>
+</ol>
+
+## ARTICLE VII
+
 Where a representative of the estate of a decedent or a beneficiary of such
 estate or a donor or a beneficiary of a gift shows proof that the action of the tax
 authorities of either contracting State has resulted, or will result, in double
 taxation contrary to the provisions of the present convention, such representative,
-donor or beneficiarv shall be entitled to present the facts to the competent
-authorities oi the contracting State of which the decedeut was a national at the
-time of his death or of which the donor or beueficiary is a national, or if the
-decedeut vvas not a national of either of the contracting States at the time oi
-his death or if the donor or the beneliciary is not a national of either of the
-contracting States, to tbe competent authorities of the contracting State iu
-which the decedent i~ as domiciled or resident at the time of his death or in wliich
-the donor or beueficiary is domiciled or resident. Should the claim be decmecl
-worthy of cousideration, the competent aui. liorities of such State to which the
-facts are so presented shall undertal-e to conic to an agreement with the competent
-authorities ot the other contracting State with a view to equit«ble
-avoidance of the double taxatiou iu question.
-A. RTIcLE VIII
-(1) Tbe provisions of the present convention shall uot be coustrucd to deny
-or affect in any mauner the right of diplomaiic aud cousular ofiicers to other or
+donor or beneficiary shall be entitled to present the facts to the competent
+authorities of the contracting State of which the decedent was a national at the
+time of his death or of which the donor or beneficiary is a national, or if the
+decedent was not a national of either of the contracting States at the time of
+his death or if the donor or the beneficiary is not a national of either of the
+contracting States, to tbe competent authorities of the contracting State in
+which the decedent was domiciled or resident at the time of his death or in which
+the donor or beneficiary is domiciled or resident. Should the claim be deemed
+worthy of consideration, the competent authorities of such State to which the
+facts are so presented shall undertake to come to an agreement with the competent
+authorities of the other contracting State with a view to equitable
+avoidance of the double taxation in question.
+
+## ARTICLE VIII
+
+<ol>
+    <li>The provisions of the present convention shall not be construed to deny
+or affect in any manner the right of diplomatic and consular officers to other or
 additional exemptions now enjoyed or which may hereafter be granted to such
-officers.
-(2) The provisions of the present convention shall not be construed so as to
-increase the tax imposed by either contractiug State.
-(3) Should any difficulty or doubt arise as to the interpretation or application
-of the preseut convention, or its relationship to conventions betv een one of
+officers.</li>
+    <li>The provisions of the present convention shall not be construed so as to
+increase the tax imposed by either contracting State.</li>
+    <li>Should any difficulty or doubt arise as to the interpretation or application
+of the present convention, or its relationship to conventions between one of
 the contracting States and any other State, the competent authorities of the
 contracting States may settle the question by mutual agreement; it being understood,
-however, that this provision shall not be construed to preclude the con
-tracting States from settling by negotiation any dispute arising under the preseni
-convention.
-(4) The competent authorities of both contracting States may prescribe remlations
+however, that this provision shall not be construed to preclude the contracting 
+States from settling by negotiation any dispute arising under the present convention.</li>
+    <li>The competent authorities of both contracting States may prescribe regulations
 necessary to interpret and carry out the provisions of the present convention
 and may communicate with each other directly for the purpose of giving
-effect to the provisions of the present convention.
-ARTICLE IX
-(1) The prese~t convention shall be ratified and the instruments of ratification
-shall be exchanged at Tokyo as soon as possible.
-(2) The present convention shall enter into force on the date of exchange of
+effect to the provisions of the present convention.</li>
+</ol>
+
+## ARTICLE IX
+
+<ol>
+    <li>The present convention shall be ratified and the instruments of ratification
+shall be exchanged at Tokyo as soon as possible.</li>
+    <li>The present convention shall enter into force on the date of exchange of
 instruments of ratification and shall be applicable to estates or inheritances in
 the case of persons who die on or after the date of such exchange and to gifts
-made on or after that date.
-(9) Either of the contracting States may terminate the present convention
+made on or after that date.</li>
+    <li>Either of the contracting States may terminate the present convention
 at any time after a period of five years shall have expired from the date on which
-the convention enters into force, by giving to the other contractiu State notice
+the convention enters into force, by giving to the other contracting State notice
 of termination, provided that such notice is given on or before the 90th day of
 June and, in such event, the present convention shall cease to be effective for
 the taxable years beginning on or after the first day of January of the calendar
-vear next following that in which such notice is given.
-IN wITNEss wHEREoF, the undersigned Plenipotentiaries have signed the present
-convention.
-DoNE at Washington, in duplicate, in the En lish and Japanese languages, each
+year next following that in which such notice is given.</li>
+</ol>
+
+IN WITNESS WHEREOF, the undersigned Plenipotentiaries have signed the present  convention.
+
+DONE at Washington, in duplicate, in the English and Japanese languages, each
 text having equal authenticity, this sixteenth day of April, 1954.
+
 For the United States of America:
+    
 WALTER BEDELL SMITH
+
 For Japan:
-S. IGUUHI
+
+S. IGUCHI

@@ -23,7 +23,7 @@ in this issue
     * Subpart C.-Rulings and Decisions Under the Federal Alcohol Administration Act or Related Laws
 * Part IV.-Legislations and Treaties:
     * [Subpart A.-Legislation](Part IV.-Legislations and Treaties.Subpart A.-Legislation.md)
-    * [Subpart B.-Tax Conventions](Part%20IV.-Legislations%20and%20Treaties.Subpart%20B.-Tax Conventions.md)
+    * [Subpart B.-Tax Conventions](Part%20IV.-Legislations%20and%20Treaties.Subpart%20B.-Tax%20Conventions.md)
     * [Subpart C.-Committe Reports](Part IV.-Legislations and Treaties.Subpart C.-Committe Reports.md)
 * Part V.-Administrative and Miscellaneous Matters
 * Index

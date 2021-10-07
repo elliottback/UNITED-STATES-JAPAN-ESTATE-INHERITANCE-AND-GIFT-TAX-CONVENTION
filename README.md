@@ -28,6 +28,10 @@ in this issue
 * Part V.-Administrative and Miscellaneous Matters
 * Index
 
-    UNITED STATES
-    GOVERNMENT PRINTING OFFICE
-    WASHINGTON : 1956
+---
+
+UNITED STATES
+
+GOVERNMENT PRINTING OFFICE
+
+WASHINGTON : 1956

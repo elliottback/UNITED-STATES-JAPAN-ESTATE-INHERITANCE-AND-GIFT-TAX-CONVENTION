@@ -1,6 +1,8 @@
 # Introduction
 
-This document contains markdown files transcribed from a section of the [Treasury Department's Internal Revenue Bulletin Cumulative Bulletin 1955-1 JANUARY-JUNE 1955](https://www.govinfo.gov/content/pkg/GOVPUB-T22-fdc2ce58a1cfd6cd3f7cdc35cb9793b5/pdf/GOVPUB-T22-fdc2ce58a1cfd6cd3f7cdc35cb9793b5-1.pdf).
+This document contains markdown files transcribed from a section of the [Treasury Department's Internal Revenue Bulletin Cumulative Bulletin 1955-1 JANUARY-JUNE 1955](https://www.govinfo.gov/content/pkg/GOVPUB-T22-fdc2ce58a1cfd6cd3f7cdc35cb9793b5/pdf/GOVPUB-T22-fdc2ce58a1cfd6cd3f7cdc35cb9793b5-1.pdf) ([archive](https://archive.ph/lr8ut)).
+
+An additional "authoritative" (as in, hosted by one of the contracting Government parties) is on the [Ministry of Foreign Affairs, Japan page](https://www.mofa.go.jp/mofaj/gaiko/treaty/pdfs/A-S38(3)-256.pdf) ([archive](https://archive.ph/oSQAU)).
 
 ---
 

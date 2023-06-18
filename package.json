@@ -1,0 +1,22 @@
+{
+  "name": "UNITED-STATES-JAPAN-ESTATE-INHERITANCE-AND-GIFT-TAX-CONVENTION",
+  "private": false,
+  "description": "UNITED-STATES-JAPAN-ESTATE-INHERITANCE-AND-GIFT-TAX-CONVENTION",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elliottback/UNITED-STATES-JAPAN-ESTATE-INHERITANCE-AND-GIFT-TAX-CONVENTION.git"
+  },
+  "keywords": [
+    "United Status",
+    "Japan",
+    "Tax",
+    "Tax Treaty"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "markdown-link-check": "^3.11.2",
+    "markdownlint-cli": "^0.34.0"
+  }
+}

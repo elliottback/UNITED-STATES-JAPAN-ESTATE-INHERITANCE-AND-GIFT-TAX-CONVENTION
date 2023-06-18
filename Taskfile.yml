@@ -53,3 +53,8 @@ tasks:
       - task: npm:install-deps
     cmds:
       - npx markdownlint-cli "**/*.md"
+
+  npm:install-deps:
+    desc: Install dependencies managed by npm
+    cmds:
+      - npm install

@@ -1,3 +1,5 @@
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+
 # Introduction
 
 This document contains markdown files transcribed from a section of the [Treasury Department's Internal Revenue Bulletin Cumulative Bulletin 1955-1 JANUARY-JUNE 1955](https://www.govinfo.gov/content/pkg/GOVPUB-T22-fdc2ce58a1cfd6cd3f7cdc35cb9793b5/pdf/GOVPUB-T22-fdc2ce58a1cfd6cd3f7cdc35cb9793b5-1.pdf) ([archive](https://archive.ph/lr8ut)).

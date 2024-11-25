@@ -17,6 +17,6 @@
   },
   "devDependencies": {
     "markdown-link-check": "^3.13.6",
-    "markdownlint-cli": "^0.42.0"
+    "markdownlint-cli": "^0.43.0"
   }
 }

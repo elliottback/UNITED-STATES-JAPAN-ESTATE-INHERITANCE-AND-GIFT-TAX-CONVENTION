@@ -7,373 +7,271 @@
 ---
 
 It is the policy of the Internal Revenue Service to announce in the
-Invernat Revenue Burterin at the earliest practicable date the deter-
-mination of the Commissioner to acquiesce or not to acquiesce in a
+Internal Revenue Bulletin at the earliest practicable date the determination 
+of the Commissioner to acquiesce or not to acquiesce in a
 decision of The Tax Court of the United States which disallows a
 deficiency in tax determined by the Commissioner to be due. Notice
 that the Commissioner had acquiesced or nonacquiesced in a decision
-of The ‘Tax Court relates only to the issue or issues decided adversely
+of The Tax Court relates only to the issue or issues decided adversely
 to the Government. Actions of acquiescences in adverse decisions
-should be relied on by Revenue officers and others concerned as con-
-clusions of the Service only as to the appiipation of the Jaw to the
+should be relied on by Revenue officers and others concerned as conclusions 
+of the Service only as to the application of the law to the
 facts in the particular case. Caution should be exercised in extending
-the application of the decision to similar cases unless the facts and ecir-
-cumstances are substantially the same, and consideration should be
+the application of the decision to similar cases unless the facts and circumstances 
+are substantially the same, and consideration should be
 given to the effect of new legislation, regulations, and rulings as well
-as subsequent court decisions and actions thereon, Acquiescence in a
+as subsequent court decisions and actions thereon. Acquiescence in a
 decision means acceptance by the Service of the conclusion reached
 and does not necessarily mean acceptance and approval of any or all
-of the reasons assigned by the Court for its conclusions. No announce-
-ments are made in the Bulletin with respect to memorandum opinions
+of the reasons assigned by the Court for its conclusions. No announcements 
+are made in the Bulletin with respect to memorandum opinions
 of The Tax Court.
 
-The Commissioner ACQUTESCES in the following decisions:
+The Commissioner ACQUIESCES in the following decisions:
 
-Report
-Taxpayer Docket No,
-Volume| Page
-B
-Bartholomew, Frederick Cecil, a minor, estate of 1...
-Bartholomew, Myllicent, guardian of estate of Fred- 200 4 349
-erick Ceeil Bartholomew, a minor 1__
+|                                       Taxpayer                                        | Docket No. | Report |      |
+|:-------------------------------------------------------------------------------------:|:----------:|:------:|:----:|
+|                                                                                       |            | Volume | Page |
+|                  Bartholomew, Frederick Cecil, a minor, estate of ^1                  |    200     |   4    | 349  |
+| Bartholomew, Myllicent, guardian of estate of Frederick Cecil Bartholomew, a minor ^1 |    200     |   4    | 349  |
+|                                     Bear Film Co                                      |   29743    |   18   | 354  |
+|              Bernstein, Edward, executor of estate of William Bernstein               |   41976    |   22   | 1364 |
+|                  Bernstein, William, et al., estate of Bour, Elsie S                  |   35641    |   23   | 237  |
 
-Bear Film Co__--.------------+----- | 29743 18 354
-
-Bernstein, Edward, executor of estate of William
-Bernstein. .-----------------=--
-Bernstein, William, et al., estate of..
-Bour, Elsie 8
-‘{Nonacqniesconce published in Cumulative Bulletin 1945, 6 is withdrawn,
-
-(3)
-
-41976 22) 1364
-35641 23 237
+* ^1 Nonacquiescence published in Cumulative Bulletin 1945, 8, is withdrawn.
 
 ## (3)
 
-4
-
-Acquinscences—Continued
-
-Report
-Dorket No.
-‘Taxpayer Volutne| Page
-9
-Bradford, J. C., et U22....eseecececqceeeecnece nen { Sige | 22) tosz
-Brooklyn Union Gaz Co.3, i robe 22) 507
-Cc
-Campanari, Christopher C., et al., executors of estate
-of Nina M. Campanari ‘*.____ A384 5 ARS
-Cumpanari, Nina M.,, estate of 4
-Carnegie Center Ce ist 30353 22 1189
-Caruso, Dorothy -_-_ 44810 23 836
-Central Outdoor Advertising Co., Inc. 42346 22 549
-Chang Tisiao Liang 43978 23 | 1040
-Country Club Es 44898 22 1283
-Crawford County Printing and Pu 22369
-Crawford County Printing and 17 | 1404
-dissolved corporation___....-...--.--2---- ole 33509
-Dd
-Daggitt, Deloss, E., et ux___ 38570 23 31
-Davis, Harold &., estate of
-Davis, Mary, executrix of estate of Harold 5. Dav 40005 22 307
-Dirkameyer, Lafayette A. 36074 23 208
-Dittmar, Martin M., et. u 45442 23 789
-Drachman, Eda Q_ 32977
-Drachman, Fanchon.. 32976 + 23 558
-Drachman, Richard ¥ _ 32975
-F
-Farrier, Mamie F 24540
-Farrier, W. C., estate 34539 } wb] 277
-Feagans, Frank T., et ux 35847
-Feagans Paint Co.._.. 36075 } 2 208
-Fisher, Wilson Johu ® 34413 23 218
-Fort. Wharf Ice Co. 45937 23 202
-Fullerton, George J 38572 22 372
-Fulton Bag & Cotton Mil 43796 22 1044
-G
-Gaynor News Co., Ine__________. 45215 22 4172
-Girard Trust Corn Exchange Bank 36015 22 1343
-Goldberger, Norman &., estate of 35388 18 1233
-Goldsmith, Albert J 41831 22 1137
-Goodman, Al, ct ux 42715
-Goodman Ine., Al 42714 } 23 288
-Greenbros, Inc_ 49636 23 226
-Greenspon, Aun 39404
-Greenspon, Loui. 30405 2:
-Greenspon, Louis, transferce.. 39403 3 138
-Grecuspon Inc., Louis 39406 |
-
-« United States Hoard of Tax Appeals.
-
-1 Acqniescence in this ease has been withdrawn and nonaequiescence substituted therefor in T, R.B,
-
-1955-347, 7.
-
-? Nonacqniescence putilished in Cumulative Bulletin X-2, 82 (1921), is withdrawn.
-
-4 Estute tax decision,
-
-+ Nonacquiescence published in Cumulative Bulletin 1947-1, 6, is withdrawn.
-
-# Acquiescence relates to issued involving amounts expended by o professional musiei
-clothing, accessories, and maintenance thereof, and fur expenses covering entertainment fm th
-ployment; also, it relates to the determination of the fair market yulue of hotel room aceon
-
-Bished in Ueu of o higher money salury.
-
-van tor foal
-tse of em.
-Mmmnadations fare
-
-## (4)
-
-5
-
-Acquizscences—Continued
-
-Report
-Taxpayer Docket No. |———
-Volume) Pago
-H
-Henshaw, Paul A., et ux.__ d 48530
-Henshaw, Walter ‘A, et ux. . 48529 } 23 176
-Hooks, Jeanette, independent exceutrix a
-wite of estate of Pat E. TMooks_ 45676 22 502
-Hooks, Tet E. estate of.
-urley, H. A-_____ a 41210 ‘
-Hurley, TT. A, et ux : 41211 } 22) 1256
-I
-Imburgit, A ritkeswccwceeseee cee eeereees oe 38559 22 1002
-J
-Jillson, Leon R., et ux.?_---..------ eee eee 22] 1101
-Joslyn, George Rescoeeesseseeeecsceceeneeeeerees! { 23 126
-Joslyn, George R., et ux._..-.222-22- 8 ee
-ik
-Kelly,.laniel.S.. Wiesoeseeeen eee eee ce eee 87243 23 682
-L
-Lake Eloise Groves, Inc__. 31896 20 136
-Larsen, Leonard, ct ux. - 87097 23 595
-Lexmont Corporation. as 37759 20 185
-Lindau, Miriam C_. = 31244 21 911
-Loewi & Co = 36835 23 486
-AE
-Marcus, Franecs (formerly Frances Elumenthal}-__-- 35733 22 824
-Milt Lane Club, Ine_ - 46754 23 433
-Miller, Edward J.4___ «| * 85083 1 830
-Moore, R. E., former independent executor of ¢
-of W. G. Farrier__.___-__- za 24509 15 277
-Morrell, John Edgerly, estate -| * 108776 AS 651
-N
-National Bank of Topeka, Kans., administrator with
-the will anucxed of John Edgerly Morrell estate *__! * 103776 43 G51
-35786
-North, . 22] 1307
-Ringling “ et 35787
-North, John Ringling, fidueiary of estate of John
-35785 |
-
-Ringling.
-
-«United States Board of Tax Appeals,
-
-7 Acquiescence relales to the issue of the separability of compensation recetved for servicas rendered as
-tounsel to trustees ander a willand compensation recvived as a trustee under such will, to determine whether
-
-the compensatia !
-of gec. Teriu> ‘af the 1939 Code,
-¢ Nonacruiesce
-§ Nonacquiescen
-
-nee publisied in Cumulative Bulletin 1988-2, st, is withdrawn.
-nee published in Cumulative Bulletin (941-1; t7, is withdrawn,
-
-a for the former meets the 80 percent requirement and entitles the taxpayer to the benelita
-
-## (5)
-
-6
-
-AcquitscENcEs—Continued.
-
-Report
-Taxpayer Dacket No,
-Vo'ume} Page
-0
-O'Trien, Martin Thomas, et ux )._----_---.------ * 108643 47 661
-P
-Paolozzi, Alice Spaulding 1__ 46543 23 182
-Parser, Limilic Polak__- 46222 zh 558
-Pasadena City Lines, I faa 3
-Polak, Jacab____-_ ro
-Polak, Jacob and I. apial 21 953
-Polak’s Frutal Works, Inc_-- 46219
-Potson, Michael "izcenoe oes becca cnceoenceee sees 20024 22 912
-R
-41TA9
-45093 ae
-Ray’s Clothes, Intivessewscaseseseeeseeeecsceeceee 45094 1{ 22 | 1332
-45095
-Reid, Joseph, et ux. S8571 | 23 31
-Ringling, John, estate of__- 35787 i} 29 1307
-Rockland Oil Co., transferee 35784 |
-Ruwitch, Léé.ncncossescseesewo essences eeewes, 41543 22 1053
-8
-Be
-Showell, Jack, et ux-..------------------e eee eee H seis \ a3} 495
-Silberman, Frances. 47836 Hl
-Silberman, Josep 47888 22 1240
-Silberman, Samuel_ 47887
-Smith, Weldon D.28__ 27569 17 135
-Smoky Mountains Beverage Co_...------.--------- : Sune } 22] 1249
-Snively, John A,, &r., transferee af Lake Eloise Groves, |
-Tn 31896 20 136
-SoRelle, A. Le of.
-SoRclle, A. W., Jr., et al, 36411 .
-SoRelle__ 36218 22 439
-SoRelle, Elsie. SO789
-SoRelle, Mabel Ru
-Stewart, William Rhinelander, estate of 41% =
-Stewart, William Rhinelander, Jr., et al., executors of * 67776 31 201
-William Rhinclander Stewart estate 4 ¥
-Btrause, Leon, et ux. +. 41549 22 140
-* United States Runrd of Tax Appeals.
-  2 Nonaequiescence pubtished in Cumulative Bulletin 1542-2, 30, is withdrawn, -
-
-1 Gift tax decision,
-
-© Acquieseenee relates to Che determ{nation of the taxpayer’s net income for the years 1986 through 1943;
-also, to the determination of the marital status which would entitle the taxpayer to the marital exemption
-
-for such years.
-
-@ Aequiescence relates to the deductibility of attorncy’s. fees fram proceeds of settlement payment of
-forruer employer in 1945 prior to allocation under sec, 107(d) of the 1932 Cade, Nonacquieseence published
-in Cumulative Bulletin 1051-2, 5, is witburawn, with respect to his issue,
-
-4 Estate tax decision.
-
-8 Nanaequiescence published in Cumulative Bulletin XIV-1, 38 (945), 18 withdrawn,
-
-% Sve Rey. Rul. 66-170, page 342,
-
-## (6)
-
-7
-
-Acaulescexces—Continued
-
-Report
-Taxpayer Docket No. ——
-Va uuie
-
-T
-
-of estate of Norman S.
-
-Trounstine, Adele, executri
-Galdberger. = 35388 18 | 1223
-
-2 41334 22 1108
-
-Tunningley, Melvin E_.-..-----..-2.2.-.
-Ww
-
-Walter, Inc., John W_
-
-44002 23 550
-Webb, Larry L., et ux.
-
-AT948 23 1035
-
-The Commissioner does NOT ACQUIESCK in the following
-decisions:
-
-Report
-Taxpayer Docket No.
-Volume! Page
-A
-Adams, Charles D.'_1.22..2-.---.------------------ 2 88274 39 387
-‘ aa 40929 =
-Atlas Oil & Refining Corp_......---.02---.-------- { 40930 } 22 552
-BR
-Bridgeport Hydraulic Co. _ 43322 22 215
-Cc
-Caulkins, George Peck *__...-...---~-------------- 108422 1 656
-Cortese, Clara. 40638 } 22] 293
-Cristo, Jae___ 40632 s
-F
-Fashion Park, Jnc_.-.---------------- eee e eee 37054 21 600
-J
-
-Jillson, Leon R., et ux.3__----------_. - ----------- 46371 22) 1101
-
-Kilpatrick, Litlian....---------------------------- 37233 22 446
-
-LoBue, Philip J4_..-.---------------------------+ i 4loui i 22 440
-
-» United States Ruard of Tax Appeals.
-1 jescence published in Cumulative Bulletin 1930-1, 1, with respect lo the inclusion in Income of the
-dite Pecan tbe fair market val od the prive at which the taxpayer nequired shares of capital
-
-ceived in 1948 uiay be allocated betwova the tuxpuyer and wife in years prior to 194, despite the fact that
-nturos for such years. - ‘ ”
-
-thrg Aled separate cei eG in Cumulative Bulletin 1954-2, 4, relalive to Ube issue of the stock option granted
-
-oo eee. ists, which gave proprietary Luterest in & corporation and did not result in taxable com-
-
-pangation, is withdrawal.
-
-364050°—-36—2
-
-## (7)
-
-8
-
-Nonacqurescences—Continued
-
-Report
-Taxpayer Docket No.
-Vorume} Page
-M
-Mahler, Benjamin, ct ux.b.....------------------ = 45231 22 1180
-Mammoth Coal Co., The_ 82205 22 571
-Miller, Mary_-.-.--- as 40631 22 293
-
-© 15798 18 418
-
-North American Mortgage Co.
-p
-
-Pennroad Corporation & Affiliated Companies 33309 21 1087
-
-Peters, Isabel 40813 21 53
-Rn
-
-Rosenberg, Abraham, et us,’ 37719 £0 5
-5
-
-Schwartz, Hymic, et ux..-..-----.-.-.------------ 45571 22 717
-v
-
-Yargason, Velma B._...-.------------------------ 44790 22 100
-
-« United States Nuard of Tax Appeals.
-
-5 Noun cy seine relates to the issue of whether compensation recrived in 1948 snd allocated to priof
-years 142 throngh 1947, so as to recompute the 1948 tax under section 1N7{a) of the 1936 Code, may be furthet
-allocated ta the petitioner's wife, despite the fact that, they had filed separale returns for such prior years,
-
-¢ In order to conform 1a the decision in the ease of Witerd Felturn, Znc., 20'T, C, 744, affirmed (1954)
-214 Fed. (2d) 8t5, acquiescence published in Cumulative Bulletin IX-2, 44 (1930), relative to a foreign ex-
-change transaction in which dollars acquired in repayment of loans were reconverted to guilders at a profit
-due to a more favorable rate of exchange, is withdrawn.
-
-1 Aequiescence published in Cumulative Bulletin 1953-2, 6, a5 to whether the difference belween the fair
-market valueand the option price of corporate capital stock, was compnsntian for personal services taxable
-as inenme in the year thr taxpayer exercised the option und received the stock, is withdrawn and non-
-sequicscence is subsliluled Unerelor.
-
-## (8)
+## 4
+
+Acquiescences—Continued
+
+|                                     Taxpayer                                      |      Docket No.      | Report |      |
+|:---------------------------------------------------------------------------------:|:--------------------:|:------:|:----:|
+|                                                                                   |                      | Volume | Page |
+|                             Bradford, J. C., et ux.^2                             |   {35990, 36895 }    |   22   | 1057 |
+|                             Brooklyn Union Gas Co.^3                              | { α 23380, α 20176 } |   22   | 507  |
+|                                         C                                         |                      |        |      |
+| Campanari, Christopher C., et al., executors of estate of Nina M. Campanari ^4 ^5 |         4384         |   5    | 488  |
+|                        Campanari, Nina M., estate of ^4 ^5                        |         4384         |   5    | 488  |
+|                              Carnegie Center Co, The                              |        30353         |   22   | 1189 |
+|                                  Caruso, Dorothy                                  |        44810         |   23   | 836  |
+|                       Central Outdoor Advertising Co., Inc.                       |        42346         |   22   | 549  |
+|                                 Chang Hsiao Liang                                 |        43978         |   23   | 1040 |
+|                             Country Club Estates, Inc                             |        44898         |   22   | 1283 |
+|                    Crawford County Printing and Publishing Co                     |        22369         |   17   | 1404 |
+|       Crawford County Printing and Publishing Co., a dissolved corporation        |        33509         |   17   | 1404 |
+|                                         D                                         |                      |        |      |
+|                            Daggitt, Deloss, E., et ux                             |        38570         |   23   |  31  |
+|                            Davis, Harold S., estate of                            |        40005         |   22   | 307  |
+|                Davis, Mary, executrix of estate of Harold S. Davis                |        40005         |   22   | 307  |
+|                              Dirksmeyer, Lafayette A                              |        36074         |   23   | 208  |
+|                             Dittmar, Martin M., et ux                             |        45442         |   23   | 789  |
+|                                  Drachman, Eda Q                                  |        32977         |   23   | 558  |
+|                                 Drachman, Fanchon                                 |        32976         |   23   | 558  |
+|                                Drachman, Richard M                                |        32975         |   23   | 558  |
+|                                         F                                         |                      |        |      |
+|                                 Farrier, Mamie F                                  |        24540         |   15   | 277  |
+|                      Farrier, W. G., estate of (terminated)                       |        24539         |   15   | 277  |
+|                             Feagans, Frank T., et ux                              |        35847         |   23   | 208  |
+|                                 Feagans Paint Co                                  |        36075         |   23   | 208  |
+|                              Fisher, Wilson John ^6                               |        34413         |   23   | 218  |
+|                                 Fort Wharf Ice Co                                 |        45937         |   23   | 202  |
+|                                Fullerton, George I                                |        38572         |   22   | 372  |
+|                             Fulton Bag & Cotton Mills                             |        43796         |   22   | 1044 |
+|                                         G                                         |                      |        |      |
+|                               Gaynor News Co., Inc                                |        45215         |   22   | 1172 |
+|                          Girard Trust Corn Exchange Bank                          |        36015         |   22   | 1343 |
+|                         Goldberger, Norman S., estate of                          |        35388         |   18   | 1233 |
+|                                Goldsmith, Albert J                                |        41831         |   22   | 1137 |
+|                                Goodman, Al, et ux                                 |        42715         |   23   | 288  |
+|                                 Goodman Inc., Al                                  |        42714         |   23   | 288  |
+|                                  Greenbros, Inc                                   |        49636         |   23   | 226  |
+|                                  Greenspon, Anna                                  |        39404         |   23   | 138  |
+|                                 Greenspon, Louis                                  |        30405         |   23   | 138  |
+|                           Greenspon, Louis, transferee                            |        39403         |   23   | 138  |
+|                               Greenspon Inc., Louis                               |        39406         |   23   | 138  |
+
+---
+
+* α United States Board of Tax Appeals.
+* ^2 Acquiescence in this case has been withdrawn and nonacquiescence substituted therefor in I.R.B. 1955-347, 7.
+* ^3 Nonacquiescence published in Cumulative Bulletin X-2, 82 (1921), is withdrawn.
+* ^4 Estate tax decision.
+* ^5 Nonacquiescence published in Cumulative Bulletin 1947-1, 5, is withdrawn.
+& ^6 Acquiescence relates to issues involving amounts expended by a professional musician for formal clothing, accessories, and maintenance thereof, and for expenses covering entertainment in the course  of employment; also, it relates to the determination of the fair market value of hotel room accommodations furnished in lieu of a higher money salary.
+
+## 5
+
+Acquiescences—Continued
+
+
+|                                               Taxpayer                                                |   Docket No.    | Report |      |
+|:-----------------------------------------------------------------------------------------------------:|:---------------:|:------:|:----:|
+|                                                                                                       |                 | Volume | Page |
+|                                                   H                                                   |                 |        |      |
+|                                        Henshaw, Paul A., et ux                                        |      48530      |   23   | 176  |
+|                                       Henshaw, Walter A., et ux                                       |      48529      |   23   | 176  |
+|          Hooks, Jeanette, independent exceutrix and surviving wife of estate of Pat E. Hooks          |      45676      |   22   | 502  |
+|                                       Hooks, Pat E., estate of                                        |      45676      |   22   | 502  |
+|                                             Hurley, H. A                                              |      41210      |   22   | 1256 |
+|                                         Hurley, H. A., et ux                                          |      41211      |   22   | 1256 | 
+|                                                   I                                                   |                 |        |      |
+|                                            Imburgia, Frank                                            |      38559      |   22   | 1002 |
+|                                                   J                                                   |                 |        |      |
+|                                      Jillson, Leon R., et ux.^7                                       |      45371      |   22   | 1101 |
+|                                           Joslyn, George R                                            | {38212, 38214 } |   23   | 126  |
+|                                       Joslyn, George R., et ux                                        |      38213      |   23   | 126  | 
+|                                                   K                                                   |                 |        |      |
+|                                          Kelly, Daniel S. W.                                          |      37943      |   23   | 682  |
+|                                                   L                                                   |                 |        |      |
+|                                        Lake Eloise Groves, In                                         |      31896      |   20   | 136  |
+|                                        Larsen, Leonard, et ux                                         |      37097      |   23   | 599  |
+|                                          Lexmont Corporation                                          |      37759      |   20   | 185  |
+|                                           Lindau, Miriam C                                            |      34244      |   21   | 911  |
+|                                              Loewi & Co                                               |      36835      |   23   | 486  |
+|                                                   M                                                   |                 |        |      |
+|                             Marcus, Frances (formerly Frances Elumenthal)                             |      35733      |   22   | 824  |
+|                                          Mill Lane Club, Inc                                          |      46754      |   23   | 433  |
+|                                          Miller, Edward J.^8                                          |     α 85083     |   37   | 830  |
+|                 Moore, R. E., former independent executor of estate of W. G. Farrier                  |      24539      |   15   | 277  |
+|                                  Morrell, John Edgerly, estate of ^9                                  |    α 108776     |   43   | 651  |
+|                                                   N                                                   |                 |        |      |
+| National Bank of Topeka, Kans., administrator with the will annexed of John Edgerly Morrell estate ^9 |    α 103776     |   43   | 651  |
+|                 North, Ida Ringling, estate of, fiduciary of estate of John Ringling                  |      35786      |   22   | 1307 |
+| North, John Ringling, executor of estate of Ida Ringling North, fiduciary of estate of John Ringling  |      35786      |   22   | 1307 |
+|                      North, John Ringling, fiduciary of estate of John Ringling                       |      35785      |   22   | 1307 |
+
+---
+
+* α United States Board of Tax Appeals.
+* ^7 Acquiescence relalts to the issue of the separability of compensation received for services rendered as counsel to trustees under a will and compensation received as a trustee under such will, to determine whether the compensation for the former meets the 80 percent requirement and entitles the taxpayer to the benefits of sec. 107(a) of the 1939 Code.
+* ^8 Nonacquiescence published in Cumulative Bulletin 1938-2, 51, is withdrawn.
+* ^9 Nonacquiescence published in Cumulative Bulletin 1941-1, 17, is withdrawn.
+
+## 6
+
+Acquiescences—Continued
+
+|                                              Taxpayer                                              |           Docket No.           | Report |      |
+|:--------------------------------------------------------------------------------------------------:|:------------------------------:|:------:|:----:|
+|                                                                                                    |                                | Volume | Page |
+|                                                 O                                                  |                                |        |      |
+|                                 O'Brien, Martin Thomas, et ux ^10                                  |            α 108648            |   47   | 561  |
+|                                                 P                                                  |                                |        |      |
+|                                   Paolozzi, Alice Spaulding ^11                                    |             46543              |   23   | 182  |
+|                                        Parser, Emilie Polak                                        |             46222              |   21   | 953  |
+|                                      Pasadena City Lines, Inc                                      |             42412              |   23   |  34  |
+|                                            Polak, Jacob                                            |             46220              |   21   | 953  |
+|                                      Polak, Jacob and Eliseba                                      |             46221              |   21   | 953  |
+|                                     Polak's Frutal Works, Inc                                      |        {30131, 46219 }         |   21   | 953  |
+|                                        Potson, Michael ^12                                         |             20024              |   22   | 912  |
+|                                                 R                                                  |                                |        |      |
+|                                         Ray's Clothes, Inc                                         | { 41759, 45093, 45094, 45095 } |   22   | 1332 |
+|                                        Reid, Joseph, et ux                                         |             38571              |   23   |  31  |
+|                                     Ringling, John, estate of                                      |             35787              |   22   | 1307 |
+|                      Rockland Oil Co., transferee of estate of John Ringling                       |             35784              |   22   | 1307 |
+|                                            Ruwitch, Lee                                            |             41543              |   22   | 1053 |
+|                                                 S                                                  |                                |        |      |
+|                                        Showell, Jack, et ux                                        |        {48153, 48154 }         |   23   | 495  |
+|                                         Silberman, Frances                                         |             47886              |   22   | 1240 |
+|                                         Silberman, Joseph                                          |             47888              |   22   | 1240 |
+|                                         Silberman, Samuel                                          |             47887              |   22   | 1240 |
+|                                        Smith, Weldon D.^13                                         |             27569              |   17   | 135  |
+|                                    Smoky Mountains Beverage Co                                     |        {21778, 26761 }         |   22   | 1249 |
+|                     Snively, John A, Sr., transferee af Lake Eloise Groves Inc                     |             31896              |   20   | 136  |
+|                                     SoRelle, A. W., estate of                                      |        { 36411, 36218 }        |   22   | 459  |
+|                  SoRelle, A. W., Jr., et al, executors of estate of A. W. SoRelle                  |        { 36411, 36218 }        |   22   | 459  |
+|                                           SoRelle, Elsie                                           |             39789              |   22   | 459  |
+|                                        SoRelle, Mabel Ruth                                         |                                |   22   | 459  |
+|                          Stewart, William Rhinelander, estate of ^14 ^15                           |            α 67776             |   31   | 201  |
+| Stewart, William Rhinelander, Jr., et al., executors of William Rhinelander Stewart estate ^14 ^15 |            α 67776             |   31   | 201  |
+|                                     Btrause, Leon, et ux. ^16                                      |             41549              |   22   | 140  |
+
+---
+
+* α United States Board of Tax Appeals.
+* ^10 Nonacquiescence published in Cumulative Bulletin 1942-2, 30, is withdrawn.
+* ^11 Gift tax decision.
+* ^12 Acquiescence relates to the determination of the taxpayer's net income for the years 1936 through 1943; also, to the determination of the marital status which would entitle the taxpayer to the marital exemption for such years.
+* ^13 Acquiescence relates to the deductibility of attorney's fees from proceeds of settlement payment of former employer in 1945 prior to allocation under sec. 107(d) of the 1939 Code. Nonacquiescence published in Cumulative Bulletin 1951-2, 5, is withdrawn, with respect to this issue.
+* ^14 4 Estate tax decision.
+* ^15 Nonacquiescence published in Cumulative Bulletin XIV-1, 38 (1935), is withdrawn.
+* ^16 See Rev. Rul. 55-170, page 342.
+
+## 7
+
+Acquiescences—Continued
+
+|                            Taxpayer                            | Docket No. | Report |      |
+|:--------------------------------------------------------------:|:----------:|:------:|:----:|
+|                                                                |            | Volume | Page |
+|                               T                                |            |        |      |
+| Trounstine, Adele, executrix of estate of Normal S. Goldberger |   35388    |   18   | 1233 |
+|                      Tunningley, Melvin E                      |   41354    |   22   | 1108 | 
+|                               W                                |            |        |      |
+|                      Walter, Inc., John W                      |   44002    |   23   | 550  |
+|                     Webb, Larry E., et ux                      |   47948    |   23   | 1035 |
+
+The Commissioner does NOT ACQUIESCE in the following decisions:
+
+|          Taxpayer          |    Docket No.    | Report |      |
+|:--------------------------:|:----------------:|:------:|:----:|
+|                            |                  | Volume | Page |
+|             A              |                  |        |      |
+|    Adams, Charles E.^1     |     α 88274      |   39   | 387  |
+| Atlas Oil & Refining Corp  | { 40929, 40930 } |   22   | 552  |
+|             B              |                  |        |      |
+|  Bridgeport Hydraulic Co   |      43322       |   22   | 215  |
+|             C              |                  |        |      |
+|  Caulkins, George Peck ^2  |      108422      |   1    | 656  |
+|       Cortese, Clara       |      40633       |   22   | 293  |
+|         Cristo, Jo         |      40632       |   22   | 293  |
+|             F              |                  |        |      |
+|     Fashion Park, Inc      |      37054       |   21   | 600  |
+|             J              |                  |        |      |
+| Jillson, Leon R., et ux.^3 |      45371       |   22   | 1101 |
+|             K              |                  |        | 
+|    Kilpatrick, Lillian     |      37233       |   22   | 446  |
+|             L              |                  |        |      |
+|     LoBue, Philip J.^4     |      41959       |   22   | 440  |
+
+---
+
+* α United States Board of Tax Appeals.
+* ^1 Acquiescence published in Cumulative Bulletin 1939-1, 1, with respect to the inclusion in income of the difference between the fair market value and the price at which the taxpayer acquired shares of capital stock of a corporation through the exercise of rights granted under an optiona agreement, is withdrawn and nonacquiescence is substituted therefor.
+* ^2 Acquiescence published in Cumulative Bulletin 1944, 5, as to whether amounts recceived on "Accumulative Investment Certificates" in excess of amounts paid in, constitute capital gain rather than ordinary income, is withdrawn.  See Rev. Rul. 55-136, page 213, this Bulletin.
+* ^3 Nonacquiescence relates to whether under section 107(a) of the 1939 Code, long term compensation received in 1948 may be allocated between the taxpayer and wife in years prior to 1948, despite the fact that they filed separate returns for such years.
+* ^4 Acquiescence published in Cumulative Bulletin 1954-2, 4, relative to the issue of the stock option granted on January 18, 1945, which gave proprietary interest in a corporation and did not result in taxable compensation, is withdrawn.
+
+365050°-56-2
+
+## 8
+
+Nonacquiescences—Continued
+
+|                  Taxpayer                   | Docket No. | Report |      |
+|:-------------------------------------------:|:----------:|:------:|:----:|
+|                                             |            | Volume | Page |
+|                      M                      |            |        |      |
+|         Mahler, Benjamin, et ux.^5          |   45231    |   22   | 1180 |
+|            Mammoth Coal Co., The            |   32295    |   22   | 571  |
+|                Miller, Mary                 |   40631    |   22   | 293  |
+|                      N                      |            |        |      |
+|        North American Mortgage Co.^6        |  α 15798   |   18   | 418  |
+|                      p                      |            |        |      |
+| Pennroad Corporation & Affiliated Companies |   33309    |   21   | 1087 |
+|               Peters, Isabel                |   40813    |   21   |  55  |
+|                      R                      |            |        |      |
+|        Rosenberg, Abraham, et ux.^7         |   37719    |   20   |  5   |
+|                      S                      |            |        |      |
+|           Schwartz, Hymie, et ux            |   45571    |   22   | 717  |
+|                      V                      |            |        |      |
+|              Vargason, Velma B              |   44790    |   22   | 100  |
+
+---
+
+* α United States Board of Tax Appeals.
+* ^5 Nonacquiescence relates to the issue of whether compensation received in 1948 snd allocated to prior years 1942 through 1947, so as to recompute the 1948 tax under section 107(a) of the 1939 Code, may be further allocated to the petitioner's wife, despite the fact that they had filed separate returns for such prior years.
+* ^6 In order to conform to the decision in the case of Willard Helburn, Inc., 20 T. C. 740, affirmed (1954) 214 Fed. (2d) 815, acquiescence published in Cumulative Bulletin IX-2, 44 (1930), relative to a foreign exchange transaction in which dollars acquired in repayment of loans were reconverted to guilders at a profit due to a more favorable rate of exchange, is withdrawn.
+* ^7 Acquiescence published in Cumulative Bulletin 1953-2, 6, as to whether the difference between the fair market value and the option price of corporate capital stock, was compensation for personal services taxable as income in the year thr taxpayer exercised the option and received the stock, is withdrawn and non-acsquiescence is substituted therefor.

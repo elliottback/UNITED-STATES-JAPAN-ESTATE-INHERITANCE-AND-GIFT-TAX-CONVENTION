@@ -27,7 +27,7 @@ Page numbers and formatting are preserved to the best effort possible.
 | [Foreword](Foreword.md) 🟢                                                                                         |       2 |
 | [Tax Court of the United States, The](Tax%20Court.md) 🟢                                                           |     3-8 | 
 | [Special Announcement](Special%20Announcement.md) 🟢                                                               |       9 |
-| Part I.-Rulings and Decisions Under the Internal Revenue Code of 1954 🔴                                           |  11-203 |
+| [Part I.-Rulings and Decisions Under the Internal Revenue Code of 1954]() 🔴                                       |  11-203 |
 | Part II.-Rulings and Decisions Under the Internal Revenue Code of 1939 and Related Public Laws 🔴                  | 205-563 |
 | Part III.-Alcohol Tax Rulings and Decisions: 🔴                                                                    |         |
 | ---- Subpart A.-Rulings and Decisions Under the Internal Revenue Code of 1954 🔴                                   | 565-607 |

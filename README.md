@@ -20,25 +20,25 @@ Page numbers and formatting are preserved to the best effort possible.
 ## CUMULATIVE BULLETIN 1955-1
 ## January-June 1955
 
-| **in this issue**                                                                                                  |    Page |
-|--------------------------------------------------------------------------------------------------------------------|--------:|
-| [Finding List](Finding%20List.md) 🟢                                                                               |  III-VI |
-| [Introduction](Introduction.md) 🟢                                                                                 |       1 |
-| [Foreword](Foreword.md) 🟢                                                                                         |       2 |
-| [Tax Court of the United States, The](Tax%20Court.md) 🟢                                                           |     3-8 | 
-| [Special Announcement](Special%20Announcement.md) 🟢                                                               |       9 |
-| [Part I.-Rulings and Decisions Under the Internal Revenue Code of 1954]() 🔴                                       |  11-203 |
-| Part II.-Rulings and Decisions Under the Internal Revenue Code of 1939 and Related Public Laws 🔴                  | 205-563 |
-| Part III.-Alcohol Tax Rulings and Decisions: 🔴                                                                    |         |
-| ---- Subpart A.-Rulings and Decisions Under the Internal Revenue Code of 1954 🔴                                   | 565-607 |
-| ---- Subpart B.-Rulings and Decisions Under the Internal Revenue Code of 1939 🔴                                   |     608 |
-| ---- Subpart C.-Rulings and Decisions Under the Federal Alcohol Administration Act or Related Laws 🔴              | 609-617 |
-| Part IV.-Legislations and Treaties: 🟡                                                                             |         |
-| [---- Subpart A.-Legislation](Part%20IV.-Legislations%20and%20Treaties.Subpart%20A.-Legislation.md) 🟡             | 619-623 | 
-| [---- Subpart B.-Tax Conventions](Part%20IV.-Legislations%20and%20Treaties.Subpart%20B.-Tax%20Conventions.md) 🟢   | 624-679 |
-| [---- Subpart C.-Committe Reports](Part%20IV.-Legislations%20and%20Treaties.Subpart%20C.-Committe%20Reports.md) 🟡 | 680-693 |
-| [Part V.-Administrative and Miscellaneous Matters](Part%20V.-Administrative%20and%20Miscellaneous%20Matters.md) 🔴 | 695-722 |
-| [Index](Index.md) 🔴                                                                                               | 723-749 |
+| **in this issue**                                                                                                                                                        |    Page |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------:|
+| [Finding List](Finding%20List.md) 🟢                                                                                                                                     |  III-VI |
+| [Introduction](Introduction.md) 🟢                                                                                                                                       |       1 |
+| [Foreword](Foreword.md) 🟢                                                                                                                                               |       2 |
+| [Tax Court of the United States, The](Tax%20Court.md) 🟢                                                                                                                 |     3-8 | 
+| [Special Announcement](Special%20Announcement.md) 🟢                                                                                                                     |       9 |
+| [Part I.-Rulings and Decisions Under the Internal Revenue Code of 1954](Part%20I.-Rulings%20and%20Decisions%20Under%20the%20Internal%20Revenue%20Code%20of%201954.md) 🔴 |  11-203 |
+| [Part II.-Rulings and Decisions Under the Internal Revenue Code of 1939 and Related Public Laws]() 🔴                                                                    | 205-563 |
+| Part III.-Alcohol Tax Rulings and Decisions: 🔴                                                                                                                          |         |
+| ---- Subpart A.-Rulings and Decisions Under the Internal Revenue Code of 1954 🔴                                                                                         | 565-607 |
+| ---- Subpart B.-Rulings and Decisions Under the Internal Revenue Code of 1939 🔴                                                                                         |     608 |
+| ---- Subpart C.-Rulings and Decisions Under the Federal Alcohol Administration Act or Related Laws 🔴                                                                    | 609-617 |
+| Part IV.-Legislations and Treaties: 🟡                                                                                                                                   |         |
+| [---- Subpart A.-Legislation](Part%20IV.-Legislations%20and%20Treaties.Subpart%20A.-Legislation.md) 🟡                                                                   | 619-623 | 
+| [---- Subpart B.-Tax Conventions](Part%20IV.-Legislations%20and%20Treaties.Subpart%20B.-Tax%20Conventions.md) 🟢                                                         | 624-679 |
+| [---- Subpart C.-Committe Reports](Part%20IV.-Legislations%20and%20Treaties.Subpart%20C.-Committe%20Reports.md) 🟡                                                       | 680-693 |
+| [Part V.-Administrative and Miscellaneous Matters](Part%20V.-Administrative%20and%20Miscellaneous%20Matters.md) 🔴                                                       | 695-722 |
+| [Index](Index.md) 🔴                                                                                                                                                     | 723-749 |
 
 ---
 
